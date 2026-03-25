@@ -1,0 +1,4 @@
+console_chat
+src/*.o
+data/users.txt
+data/messages.txt
